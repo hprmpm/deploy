@@ -1,5 +1,5 @@
 services:
   nginx:
-    image: hprmpm/docker-cicd:202607161327
+    image: hprmpm/docker-cicd:202607161417
     ports:
       - "8080:80"
